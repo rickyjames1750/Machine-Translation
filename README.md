@@ -38,3 +38,4 @@ There are several ways to generate an HTML copy of the notebook:
 
     $ pip install nbconvert
     $ nbconvert machine_translation.ipynb
+:)
